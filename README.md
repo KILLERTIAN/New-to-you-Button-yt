@@ -2,7 +2,7 @@
 
 This is made with help of a tutorial available on YouTube .
 
-Channel:- Online Tutorials
+Channel Name:- Online Tutorials
 
 Link :-
 
