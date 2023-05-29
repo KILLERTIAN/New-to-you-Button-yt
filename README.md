@@ -4,9 +4,9 @@ This is made with help of a tutorial available on YouTube .
 
 Channel Name:- Online Tutorials
 
-Link :-
+Link :- Under progress 
 
-Preview :-
+Preview :- 
 
 # License
 
